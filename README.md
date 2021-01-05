@@ -1,3 +1,3 @@
 # Hell-O-World
-Hello from a depressed,sleep-deprived,half dead person.These conditions have a fancy name,PROGRAMMER. I hardly spent
+Hello from a depressed,sleep-deprived,half dead person.These conditions have a fancy name,PROGRAMMER. I hardly spent 2 minutes to come up
 
